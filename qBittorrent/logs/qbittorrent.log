@@ -1,0 +1,23 @@
+(N) 2024-02-03T13:38:03 - qBittorrent v4.6.3 started
+(N) 2024-02-03T13:38:03 - Using config directory: /config/qBittorrent
+(N) 2024-02-03T13:38:03 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-02-03T13:38:03 - Peer ID: "-qB4630-"
+(I) 2024-02-03T13:38:03 - HTTP User-Agent: "qBittorrent/4.6.3"
+(I) 2024-02-03T13:38:03 - Distributed Hash Table (DHT) support: ON
+(I) 2024-02-03T13:38:03 - Local Peer Discovery support: ON
+(I) 2024-02-03T13:38:03 - Peer Exchange (PeX) support: ON
+(I) 2024-02-03T13:38:03 - Anonymous mode: OFF
+(I) 2024-02-03T13:38:03 - Encryption support: ON
+(I) 2024-02-03T13:38:03 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-02-03T13:38:03 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-02-03T13:38:03 - Successfully listening on IP. IP: "172.18.0.5". Port: "TCP/6881"
+(I) 2024-02-03T13:38:03 - Successfully listening on IP. IP: "172.18.0.5". Port: "UTP/6881"
+(W) 2024-02-03T13:38:03 - Couldn't load IP geolocation database. Reason: No such file or directory
+(N) 2024-02-03T13:38:03 - Using built-in WebUI.
+(W) 2024-02-03T13:38:03 - Couldn't load WebUI translation for selected locale (C).
+(N) 2024-02-03T13:38:03 - WebUI: Now listening on IP: *, port: 80
+(I) 2024-02-03T13:38:03 - Detected external IP. IP: "5.78.103.151"
+(I) 2024-02-03T13:38:03 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu Feb 1 01:17:55 2024.
+(I) 2024-02-03T13:38:03 - Successfully updated IP geolocation database.
+(N) 2024-02-03T13:38:55 - qBittorrent termination initiated
+(N) 2024-02-03T13:38:55 - qBittorrent is now ready to exit
