@@ -14,9 +14,9 @@
       - 6881:6881
       - 6881:6881/udp
       - 80:80
-	environment: 
-	  - /qbittorrent/downloads:/downloads
-	  - /qbittorrent/config:/config/qBittorrent
+    environment: 
+      - /qbittorrent/downloads:/downloads
+      - /qbittorrent/config:/config/qBittorrent
 ```
 
 #### qbittorrent设置：
