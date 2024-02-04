@@ -1,0 +1,2 @@
+# qbittorrent-aliyunpan
+统合qbittorrent和aliyunpan为一个容器，实现qbittorrent下载完成后自动上传至阿里云盘
