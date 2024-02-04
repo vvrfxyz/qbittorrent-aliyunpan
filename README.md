@@ -23,3 +23,6 @@
 torrent完成时运行外部程序（示例）：
 `aliyunpan upload "%D/%N" "/%L/%N"`
 解释：下载完成后自动将文件/文件夹上传至%L(目录)下。
+
+#### aliyunpan配置相关
+详见https://github.com/tickstep/aliyunpan
